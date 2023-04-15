@@ -33,10 +33,7 @@ i have Interested in digital currency Cryptocurrency and GameFi based on blockch
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unikonkon&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unikonkon&theme=dark&background=000000)](https://git.io/streak-stats)<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
-
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unikonkon&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 ### Hi there 👋
