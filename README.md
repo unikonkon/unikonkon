@@ -44,6 +44,8 @@ Hello, my name is Suthep Chantawee, also known as Banana. I graduated with a deg
 
 - **Cross-Platform Development**: 
   I build **Electron** applications for both **MacOS** and **Windows**, enabling cross-platform support.
+
+I am passionate about technology development and creating efficient systems, especially in the areas of web development, APIs, and automation. I am always eager to improve my skills and learn more in these fields.
   
 
 ### Tool for developer and Association
