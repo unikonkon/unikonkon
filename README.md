@@ -81,103 +81,21 @@
 
 </div>
 
----
 
-## 💼 `~/experience/work-history.md`
+## 📅 `~/stats/commit-summary.sql`
+<div align="center">
 
-```diff
-+ ══════════════════════════════════════════════════════════════════════════
-+ 🏢 iApp Technology | Full Stack Developer
-+ 📅 Feb 2023 - Present
-+ ══════════════════════════════════════════════════════════════════════════
-```
+<!-- Commit Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unikonkon&theme=github_dark" alt="Profile Details" width="100%"/>
 
-<details>
-<summary>🚁 <b>NBTC - Drone Data Transmission</b> | Backend Developer</summary>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unikonkon&theme=github_dark" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unikonkon&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unikonkon&theme=github_dark" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unikonkon&theme=github_dark" alt="Most Commit Language"/>
+</div>
 
-```bash
-# Achievements
-✅ Developed API for transmitting drone data to mobile & web platforms
-✅ Presented API functionality and documentation to clients
-```
-
-</details>
-
-<details>
-<summary>📊 <b>ACT & ACT Phase 2</b> | Full Stack Developer</summary>
-
-```bash
-# Achievements
-✅ Updated API for fetching data from web and Kibana database
-✅ Developed front-end view for MA and database sources
-✅ Wrote Python logic for project risk assessment
-✅ Created Excel export functionality for project and company data
-✅ Redesigned data fetching flow for EGP, DBD, and GOV pages
-✅ Set up Jenkins automation for data fetching processes
-✅ Designed complete workflow for Phase 2 development
-```
-
-</details>
-
-<details>
-<summary>🎤 <b>iApp Speech Flow for Web</b> | Full Stack Developer</summary>
-
-```bash
-# Achievements
-✅ Planned development and designed workflow architecture
-✅ Converted mobile codebase to Next.js web application
-✅ Built cross-platform Electron app for macOS & Windows
-✅ Designed complete code flow and architecture
-```
-
-</details>
-
-<details>
-<summary>👥 <b>IISI HubOfTalent</b> | Front-end Developer</summary>
-
-```bash
-# Achievements
-✅ Connected role data API from signup to display/edit views
-✅ Implemented profile liking flow and data visualization
-```
-
-</details>
-
-<details>
-<summary>🤖 <b>Digitaltouchpoint Wellness Chatbot</b> | Full Stack Developer</summary>
-
-```bash
-# Achievements
-✅ Built Next.js API for CRUD operations (signup, packages)
-✅ Implemented JWT authentication flow
-✅ Created dashboard bot view for package and user management
-```
-
-</details>
-
----
-
-```diff
-+ ══════════════════════════════════════════════════════════════════════════
-+ 🏢 Vertobase Company | Frontend Developer
-+ 📅 March 2022 - December 2022
-+ ══════════════════════════════════════════════════════════════════════════
-```
-
-<details>
-<summary>📈 <b>Zignway App</b> | Front-end Developer</summary>
-
-```bash
-# Tech Stack: JavaScript, TypeScript, Next.js, Flutter, GitHub
-
-# Achievements
-✅ Developed front-end code from design using React & Next.js
-✅ Built Flutter mobile app with PIN login functionality
-✅ Implemented page navigation and mobile UX flows
-```
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=100&section=footer"/>
 
 </div>
+
+
+
